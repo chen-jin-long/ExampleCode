@@ -1,0 +1,24 @@
+[1][queue_get] cur_num = 0
+[1][queue_get] cur_num = 0
+[1][queue_get] cur_num = 0
+[1][queue_get] cur_num = 0
+[1][queue_get] cur_num = 0
+[1][queue_get] cur_num = 0
+[1][queue_get] cur_num = 0
+[1][queue_get] cur_num = 0
+[1][queue_get] cur_num = 0
+push: 0
+[queue_push] cur_num = 1
+stop start 
+stop progrss. 
+[140269177521920]recv SIGUSR1.
+[140269185914624]recv SIGUSR1.
+[140269169129216]recv SIGUSR1.
+[2][queue_get] cur_num = 0
+get: 0
+[1][queue_get] cur_num = 0
+[1][queue_get] cur_num = 0
+destroy_thread_pool start.
+queue_destroy....
+queue_destroy get lock start..
+queue_destroy get lock end..
